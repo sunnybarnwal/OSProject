@@ -6,7 +6,7 @@ int main()
  while(1)
  {
   int key;
-  printf("\nEnter what you want to do : \n1.Faculty \t2.Student \t3.Exit\n");
+  printf("\nWelcome Sudhesh Sharma\nChoose an option to do : \n1.Faculty \n2.Student \n3.Exit\n");
   scanf("%d",&key);
   switch(key){
   	case 1:
